@@ -1,0 +1,13 @@
+{
+  "name": "svg-logo-maker",
+  "version": "1.0.0",
+  "description": "A command-line tool to modify SVG logos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "DarthBitBeard",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
