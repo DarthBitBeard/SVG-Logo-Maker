@@ -4,4 +4,7 @@ node_modules/
 
 # Ignore package lock file
 package-lock.json
+
+# Ignore logo.svg
+logo.svg
 }
